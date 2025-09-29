@@ -27,15 +27,15 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@BryanJChuquimarca/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@BryanJChuquimarca/0" alt="Medium post 1"  />
+<div align="center">
+  <a href="https://medium.com/@BryanJChuquimarca/post-1" target="_blank">
+    <img src="https://via.placeholder.com/300x150?text=Post+1" alt="Medium Post 1" style="margin:10px;" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@BryanJChuquimarca/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@BryanJChuquimarca/1" alt="Medium post 2"  />
+  <a href="https://medium.com/@BryanJChuquimarca/post-2" target="_blank">
+    <img src="https://via.placeholder.com/300x150?text=Post+2" alt="Medium Post 2" style="margin:10px;" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@BryanJChuquimarca/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@BryanJChuquimarca/2" alt="Medium post 3"  />
+  <a href="https://medium.com/@BryanJChuquimarca/post-3" target="_blank">
+    <img src="https://via.placeholder.com/300x150?text=Post+3" alt="Medium Post 3" style="margin:10px;" />
   </a>
 </div>
 
