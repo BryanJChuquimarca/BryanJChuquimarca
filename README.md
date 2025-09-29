@@ -28,8 +28,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/BryanJChuquimarca/assets/projects/BlackJack.png" target="_blank">
-    <img src="https://github.com/BryanJChuquimarca/assets/projects/BlackJack.png" alt="Proyecto 1" style="margin:10px; width:300px;" />
+  <a href="./assets/projects/BlackJack.png" target="_blank">
+    <img src="./assets/projects/BlackJack.png" alt="Black Jack con api" style="margin:10px; width:300px;" />
   </a>
 </div>
 ###
