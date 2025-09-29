@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <p><a>Juego de BlackJack</a></p>
+  <p><b>Juego de BlackJack</b></p>
   <a href="https://github.com/BryanJChuquimarca/BlackJack.git" target="_blank">
     <img src="./assets/projects/BlackJack.png" alt="Black Jack con api" style="margin:10px; width:300px;" />
   </a>
