@@ -28,15 +28,17 @@
 ###
 
 <div align="center">
-  <a href="https://medium.com/@BryanJChuquimarca/post-1" target="_blank">
-    <img src="./assets/medium/post1.png" alt="Medium Post 1" style="margin:10px; width:300px;" />
+  <a href="https://github.com/BryanJChuquimarca/RPG" target="_blank">
+    <img src="https://via.placeholder.com/300x150?text=Proyecto+1" alt="Proyecto 1" style="margin:10px; width:300px;" />
   </a>
-  <a href="https://medium.com/@BryanJChuquimarca/post-2" target="_blank">
-    <img src="./assets/medium/post2.png" alt="Medium Post 2" style="margin:10px; width:300px;" />
+  <a href="https://github.com/BryanJChuquimarca/BlackJack" target="_blank">
+    <img src="https://via.placeholder.com/300x150?text=Proyecto+2" alt="Proyecto 2" style="margin:10px; width:300px;" />
   </a>
-  <a href="https://medium.com/@BryanJChuquimarca/post-3" target="_blank">
-    <img src="./assets/medium/post3.png" alt="Medium Post 3" style="margin:10px; width:300px;" />
+  <a href="https://github.com/BryanJChuquimarca/frontend-proyecto-Bryan" target="_blank">
+    <img src="https://via.placeholder.com/300x150?text=Proyecto+3" alt="Proyecto 3" style="margin:10px; width:300px;" />
+  </a>
+  <a href="https://github.com/BryanJChuquimarca/BackRPG" target="_blank">
+    <img src="https://via.placeholder.com/300x150?text=Proyecto+4" alt="Proyecto 4" style="margin:10px; width:300px;" />
   </a>
 </div>
-
 ###
