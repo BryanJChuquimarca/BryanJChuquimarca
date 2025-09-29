@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://github.com/BryanJChuquimarca/assets/projects/BlackJack.png" target="_blank">
-    <img src="https://via.placeholder.com/300x150?text=Proyecto+1" alt="Proyecto 1" style="margin:10px; width:300px;" />
+    <img src="https://github.com/BryanJChuquimarca/assets/projects/BlackJack.png" alt="Proyecto 1" style="margin:10px; width:300px;" />
   </a>
 </div>
 ###
