@@ -29,13 +29,13 @@
 
 <div align="center">
   <a href="https://medium.com/@BryanJChuquimarca/post-1" target="_blank">
-    <img src="https://via.placeholder.com/300x150?text=Post+1" alt="Medium Post 1" style="margin:10px;" />
+    <img src="./assets/medium/post1.png" alt="Medium Post 1" style="margin:10px; width:300px;" />
   </a>
   <a href="https://medium.com/@BryanJChuquimarca/post-2" target="_blank">
-    <img src="https://via.placeholder.com/300x150?text=Post+2" alt="Medium Post 2" style="margin:10px;" />
+    <img src="./assets/medium/post2.png" alt="Medium Post 2" style="margin:10px; width:300px;" />
   </a>
   <a href="https://medium.com/@BryanJChuquimarca/post-3" target="_blank">
-    <img src="https://via.placeholder.com/300x150?text=Post+3" alt="Medium Post 3" style="margin:10px;" />
+    <img src="./assets/medium/post3.png" alt="Medium Post 3" style="margin:10px; width:300px;" />
   </a>
 </div>
 
