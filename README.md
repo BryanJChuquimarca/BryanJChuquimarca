@@ -34,4 +34,11 @@
   </a>
   <p>Link: https://juegodecartas-blackjack.web.app</p>
 </div>
+<div align="center">
+  <p><b>DashBoard</b></p>
+  <a href="https://github.com/BryanJChuquimarca/dashboard-api" target="_blank">
+    <img src="./assets/projects/Dashboard.png" alt="dashboard-app" style="margin:10px; width:300px;" />
+  </a>
+  <p>Link: https://dashboard-app-two-sandy.vercel.app/</p>
+</div>
 
